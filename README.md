@@ -16,9 +16,11 @@ This is the **first step** of Milestone 3, and future steps will involve continu
   Begin creating the foundational structure for your website.  
   - Include placeholders for all planned visualizations based on the wireframes from Milestone 2.  
   - Ensure your website layout is logical and user-friendly.
+  - Work on making your website responsive. 
 
 - **Add Basic Styling**:  
   Start applying basic CSS to ensure a clean, readable structure. Focus on layout and navigation elements.
+  For responsive websites, and in general, you can use frameworks like [Bootstrap](https://getbootstrap.com/) or [Tailwind](https://tailwindcss.com/) to make using CSS easier (but you will have to learn those frameworks).
 
 ---
 
