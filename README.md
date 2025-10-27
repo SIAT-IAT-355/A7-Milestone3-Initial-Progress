@@ -1,6 +1,6 @@
-# Assignment: Final Project Milestone 3 - Initial Progress
+# Assignment: Final Project Milestone 2 - Prototyping & Initial Progress
 
-**Due Date:** November 26th, 11:59 PM
+**Due Date:** November 17th, 11:55 PM
 
 ## Objective
 
