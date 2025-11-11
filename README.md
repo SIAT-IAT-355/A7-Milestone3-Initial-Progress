@@ -6,7 +6,7 @@
 
 This milestone focuses on the **initial progress** for developing your final project visualizations and integrating them into your website. You will establish the basic framework of your website and develop preliminary versions of your visualizations.
 
-This is the **first step** of Milestone 3, and future steps will involve continued development and refinement of your work.
+This is the second milestone, and future steps will involve continued development and refinement of your work.
 
 ## Instructions
 
