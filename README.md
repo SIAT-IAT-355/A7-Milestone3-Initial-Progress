@@ -12,36 +12,41 @@ This is the **first step** of Milestone 3, and future steps will involve continu
 
 ### 1. Establish Your Website Structure
 
-- **Set Up the Framework**:  
-  Begin creating the foundational structure for your website.  
-  - Include placeholders for all planned visualizations based on the wireframes from Milestone 2.  
-  - Ensure your website layout is logical and user-friendly.
-  - Work on making your website responsive. 
+This milestone focuses on planning the structure and layout of your visualizations on your project website.
 
-- **Add Basic Styling**:  
+#### 1. Create a Website Layout in Figma
+
+- Design a website layout using **Figma** (or any preferred design tool) that shows where each visualization will be placed.
+- Explain why each visualization is positioned in its respective location, considering factors such as readability, user flow, and interaction.
+
+#### 2. Plan Tools and Roles
+
+- Identify any specific tools or libraries (e.g., D3.js, Vega-Lite) needed to create the visualizations or interactive elements.
+- If working in a group, assign roles and responsibilities to ensure smooth collaboration.
+
+#### 3. Basic HTML and Styling  
   Start applying basic CSS to ensure a clean, readable structure. Focus on layout and navigation elements.
   For responsive websites, and in general, you can use frameworks like [Bootstrap](https://getbootstrap.com/) or [Tailwind](https://tailwindcss.com/) to make using CSS easier (but you will have to learn those frameworks).
 
----
 
 ### 2. Develop Preliminary Visualizations
 
-- **Create Initial Visualizations**:  
-  Use tools like **D3.js**, **Vega-Lite**, or another library to create working prototypes of your visualizations.  
-  - Ensure basic functionality is in place for each visualization.  
-  - Avoid over-focusing on advanced styling or interactivity at this stage.  
+#### 1. Create Initial Visualizations:  
+  Use tools like **D3.js**, **Vega-Lite**, or another library to create working prototypes of your visualizations.
+- Ensure basic functionality is in place for each visualization.  
+- Avoid over-focusing on advanced styling or interactivity at this stage.  
 
-- **Integrate Visualizations into the Website**:  
-  Embed your visualizations into the website and ensure they are accessible from the relevant sections.  
+#### 2. Integrate Visualizations into the Website:  
+- Embed your visualizations into the website and ensure they are accessible from the relevant sections.  
 
 ---
 
 ### 3. Reflect on Challenges and Progress
 
-- **Identify Challenges**:  
+#### 1. Identify Challenges:  
   Document any difficulties encountered during this phase, such as coding issues, data inconsistencies, or tool limitations.  
 
-- **Reflect on Progress**:  
+### 2. Reflect on Progress:  
   Provide a brief summary of what you have accomplished so far, including what remains to be done.  
 
 ---
@@ -57,7 +62,7 @@ This is the **first step** of Milestone 3, and future steps will involve continu
    - Include a link to your personal website where your project is being developed.  
 
 3. Ensure your file is named as follows:  
-   **Milestone3_Initial_FirstNameLastName.pdf**
+   **Milestone2_Initial_FirstNameLastName.pdf**
 
 ---
 
